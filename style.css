@@ -1,0 +1,20 @@
+body {
+    font-family: Georgia, sans-serif;
+}
+
+h1 {
+    color: #444854;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 500;
+}
+
+.recipe {
+    background-color: plum;
+    margin: 50px;
+    padding: 20px;
+    font-size: medium;
+}
